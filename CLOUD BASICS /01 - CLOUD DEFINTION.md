@@ -25,4 +25,3 @@ In essence, cloud computing can involve both third-party providers (public cloud
 <img width="1910" height="1475" alt="image" src="https://github.com/user-attachments/assets/9b51e2b1-e941-4514-8aad-398363a67b5c" />
 
 
-**Hybrid Cloud:** Using both your private space and the shared online space when needed.
