@@ -6,3 +6,6 @@ Storing data or running applications in the cloud involves using remote servers 
 When you access data from the cloud, your device sends a request to the cloud service provider's servers. The cloud servers then retrieve the data and send it back to your device. This process happens so quickly that it appears as if the data is stored on your own computer.
 
 Data centers are strategically positioned around the world to provide low latency and high availability. This means that no matter where you’re located, it’s easy to access your data quickly and reliably. 
+
+<img width="1910" height="1475" alt="image" src="https://github.com/user-attachments/assets/00d565ff-62d3-414c-89ff-404aec62f4e7" />
+
