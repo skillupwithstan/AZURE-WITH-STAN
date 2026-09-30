@@ -10,6 +10,8 @@ MICROSOFT DEFINTION:
 What is the cloud?
 The cloud is a global network of remote servers that store and process data for devices and computers.
 
+[![Cloud Computing Explained](https://img.youtube.com/vi/9ghUj_Aov38/maxresdefault.jpg)](https://youtu.be/9ghUj_Aov38?si=XzjGMnWiW5dhv5MU)
+
 The cloud—what is it?
 
 The cloud is a vast online storage space where people and businesses store their files and applications, accessible from anywhere with an internet connection. The cloud also offers services, such as computing power, databases, networking, and software applications.
