@@ -1,1 +1,5 @@
+[![AZURE IN TAMIL - MIGRATION SERIES - DATABASE MIGRATION - DMA and DMS](https://img.youtube.com/vi/yicG0troPf4/maxresdefault.jpg)](https://youtu.be/yicG0troPf4)
 
+AZURE IN TAMIL - MIGRATION SERIES - DATABASE MIGRATION - DMA and DMS
+In this episode of the Azure Migration Series, we delve into the core processes of Database Migration using Microsoft's primary tools: the Database Migration Assistant (DMA) and the Database Migration Service (DMS).
+We cover the two-step migration approach: running a comprehensive assessment first to check for compatibility/feature parity, followed by the actual migration to target environments like Azure SQL Database or Azure SQL Managed Instance. The session demonstrates how to address common setup challenges (such as .NET Framework prerequisites), how to execute offline/maintenance-window migrations for higher success rates, and how to use DMA to generate and deploy migration scripts to seamlessly transfer schema and data from your on-premises servers to Azure.
