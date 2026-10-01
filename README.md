@@ -4,6 +4,9 @@ Welcome to the **AZURE-WITH-STAN** repository! This is your central hub for mast
 
 Whether you are a beginner taking your first steps in the cloud or an experienced IT professional looking to upskill, this repository and the accompanying video tutorials will guide you through practical, real-world Azure scenarios.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d805442-0513-414d-aee0-882548f48302" />
+
+
 ## 🎯 What You Will Learn
 
 By following the tutorials and exploring the code in this repository, you will gain hands-on experience in the following core areas:
