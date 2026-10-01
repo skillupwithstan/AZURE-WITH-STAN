@@ -7,6 +7,7 @@ Welcome to the **Azure Basics** section! This reference guide summarizes essenti
 ---
 
 ## 🖼️ Reference Infographic
+![Uploading image.png…]()
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a89793f0-82dd-404d-86b0-7d6fbca0b0da" alt="Azure Basics Cheat Sheet" width="100%" />
