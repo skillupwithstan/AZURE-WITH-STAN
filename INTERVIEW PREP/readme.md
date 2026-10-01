@@ -1,7 +1,7 @@
 Microsoft Azure Interview Essentials: Core Concepts & Architecture
 Preparing for a cloud or Azure interview requires a solid understanding of fundamental cloud models, architectural principles, and deployment strategies. 
 
-CLICK THE BELOW FOR 
+**CLICK THE BELOW FOR FULL LIST OF INTERVIEW QUESTIONS:**
 
 [![Microsoft Azure Interview Questions](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3fcsK1sa3ZkBApYXRFv6OtSL3QuxwSdGEoRvRiE8EiYFxDzWxS1X8GRao3eX1uX4qz9WV4Ux0DLNQp63xCC0Q5sh6MJQp4rSYnsdnSplMMTMFEXzcIOG-9ouXaA67Vr7pFla5kNzmoimC9z1FfFCgxka57aoGO4TH4FA_nKDxhW_3GPdjROlh_osoKK8/s2561/IaaS__PaaS_and_SaaS.jpg)](https://skillupwithstan.blogspot.com/2024/02/microsoft-azure-interview-questions.html)
 
