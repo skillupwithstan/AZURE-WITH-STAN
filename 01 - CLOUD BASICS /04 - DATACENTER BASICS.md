@@ -11,7 +11,7 @@ Storing data or running applications in the cloud relies on **remote servers** h
 
 Cloud service providers, such as **Microsoft Azure**, operate vast networks of these data centers worldwide to support a massive ecosystem of global services.
 
-[![Video Thumbnail](https://img.youtube.com/vi/gO2GdU-VmF8/maxresdefault.jpg)](https://youtu.be/gO2GdU-VmF8)
+[![Video Thumbnail](https://img.youtube.com/vi/gO2GdU-VmF8/hqdefault.jpg)](https://youtu.be/gO2GdU-VmF8)
 
 ## How Does the Cloud Actually Work?
 
