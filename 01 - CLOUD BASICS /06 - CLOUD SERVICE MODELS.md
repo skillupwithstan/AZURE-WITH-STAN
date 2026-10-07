@@ -2,7 +2,9 @@
 
 Understanding cloud computing is simply about understanding **who manages what**. When you move to the cloud, you are renting computing power, storage, or software over the internet instead of buying and maintaining physical servers in your own office.
 
-[![Video Thumbnail](https://img.youtube.com/vi/gox9mMXyQxg/maxresdefault.jpg)](https://youtu.be/gox9mMXyQxg)
+[![Video Thumbnail](https://img.youtube.com/vi/gox9mMXyQxg/hqdefault.jpg)](https://youtu.be/gox9mMXyQxg)
+
+[![Video Thumbnail](https://img.youtube.com/vi/eah7iISv1Dc/hqdefault.jpg)](https://youtu.be/eah7iISv1Dc)
 
 To make this concept easy for beginners, let's use the **Biryani Analogy**.
 
