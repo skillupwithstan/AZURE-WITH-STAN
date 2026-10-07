@@ -4,7 +4,7 @@ Understanding cloud computing is simply about understanding **who manages what**
 
 [![Video Thumbnail](https://img.youtube.com/vi/gox9mMXyQxg/maxresdefault.jpg)](https://youtu.be/gox9mMXyQxg)
 
-[![Video Thumbnail](https://img.youtube.com/vi/eah7iISv1Dc/hqdefault.jpg)](https://youtu.be/eah7iISv1Dc)
+[![Video Thumbnail](https://img.youtube.com/vi/eah7iISv1Dc/maxresdefault.jpg)](https://youtu.be/eah7iISv1Dc)
 
 To make this concept easy for beginners, let's use the **Biryani Analogy**.
 
