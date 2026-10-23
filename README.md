@@ -2,7 +2,7 @@
 
 Welcome to the **AZURE-WITH-STAN** repository! This is your central hub for mastering Microsoft Azure Cloud, designed to work hand-in-hand with the **Skill Up With Stan** YouTube channel. 
 
-![Welcome Animation](<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/da1f731f-7b32-4bd9-b95f-2f2cb9c5f2e1" />)
+<img width="220" height="220" alt="Welcome Animation" src="user-attachments/assets/da1f731f-7b32-4bd9-b95f-2f2cb9c5f2e1.gif" />
 
 Whether you are a beginner taking your first steps in the cloud or an experienced IT professional looking to upskill, this repository and the accompanying video tutorials will guide you through practical, real-world Azure scenarios.
 
