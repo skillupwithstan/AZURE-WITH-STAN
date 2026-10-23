@@ -1,5 +1,7 @@
 Benefits of the cloud
 The cloud has changed everyday life by making information and services more accessible and convenient:
+
+[![Azure Video](https://img.youtube.com/vi/h2YAwgQ2lKI/maxresdefault.jpg)](https://youtu.be/h2YAwgQ2lKI)
  
 For individuals. Cloud storage services offer easy access to files from any device with an internet connection. This allows you to start a document on your home computer, continue working on it from your phone during your commute, and finish it on your office computer. Additionally, cloud-based applications like email and social media platforms make it easy to communicate and share with family and friends, no matter where they are in the world.
 For businesses. Companies, both small and large, have gained significantly from cloud services. Cloud computing allows organizations to scale their operations without the need for major upfront investments in hardware. Services like Azure provide businesses with the flexibility to expand their computing resources as needed, paying only for what they use. This scalability is particularly helpful for startups and small businesses that need to manage costs carefully. Moreover, cloud-based tools like Microsoft Teams improve productivity by supporting real-time communication and collaboration among team members, regardless of their physical location.
