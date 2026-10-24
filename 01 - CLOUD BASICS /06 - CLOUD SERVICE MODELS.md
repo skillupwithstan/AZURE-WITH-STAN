@@ -51,4 +51,5 @@ Here is a technical comparison of the shared responsibility between you and the 
 * **Choose PaaS if:** Your team wants to build and launch an application quickly. It allows developers to focus purely on coding without worrying about server maintenance, security patches, or load balancing.
 * **Choose SaaS if:** You just need a ready-made tool to run your daily operations immediately. There is no coding or hardware setup required—just sign up and start working.
 
-<img width="1081" height="690" alt="image" src="https://github.com/user-attachments/assets/41b72a4b-d0f5-4c56-a85e-e6e9b316a494" />
+<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/20bbb956-6e97-4400-9716-6aea26ac6afc" />
+
