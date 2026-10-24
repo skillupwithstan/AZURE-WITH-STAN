@@ -43,6 +43,8 @@ Here is a technical comparison of the shared responsibility between you and the 
 | **PaaS** | Applications, Data | Network, Storage, Servers, OS, Databases, Runtime | AWS Elastic Beanstalk, Heroku, Vercel | Software Developers |
 | **SaaS** | Nothing (just your own account data) | Everything | Zoho, Gmail, Swiggy, MakeMyTrip | Everyday End Users |
 
+<img width="1295" height="923" alt="image" src="https://github.com/user-attachments/assets/34887f48-3cb1-4835-bc75-f06007faab1b" />
+
 ---
 
 ## 💡 How to Choose the Right Model?
