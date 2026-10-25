@@ -12,6 +12,8 @@ Explore the dedicated sections in this repository for deeper dives into specific
 
 ---
 
+[![AZURE ADMINISTRATION COURSE - AZ 104 IN ENGLISH - DAY 1 - MODULE 1](https://img.youtube.com/vi/05uHoRIxdlQ/maxresdefault.jpg)](https://youtu.be/05uHoRIxdlQ)
+
 ## Core Cloud Concepts
 Cloud computing is the delivery of computing services over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale. 
 
