@@ -20,10 +20,10 @@ Azure Virtual Machines provide on-demand, scalable computing resources. You can 
 **Azure CLI Example:**
 ```bash
 az vm create \
-  --resource-group myResourceGroup \
-  --name myVM \
+  --resource-group StanResourceGroup \
+  --name StanVM01 \
   --image Ubuntu2204 \
-  --admin-username azureuser \
+  --admin-username stan \
   --generate-ssh-keys
 
 ```
@@ -49,8 +49,8 @@ Encryption at host ensures that data stored on the VM host is encrypted at rest 
 
 ```bash
 az vm create \
-  --resource-group myResourceGroup \
-  --name myVM \
+  --resource-group StanResourceGroup \
+  --name StanVM01 \
   --image Ubuntu2204 \
   --encryption-at-host true
 
@@ -107,7 +107,7 @@ The VM size determines the compute power, memory, and temporary storage allocate
 **Azure CLI Example:**
 
 ```bash
-az vm resize --resource-group myResourceGroup --name myVM --size Standard_D4s_v3
+az vm resize --resource-group StanResourceGroup --name StanVM01 --size Standard_D4s_v3
 
 ```
 
