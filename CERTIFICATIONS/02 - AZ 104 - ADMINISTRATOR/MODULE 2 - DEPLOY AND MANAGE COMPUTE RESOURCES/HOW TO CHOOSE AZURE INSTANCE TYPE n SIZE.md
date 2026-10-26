@@ -8,6 +8,8 @@ Azure categorizes its Virtual Machines into different **Workload Categories** (o
 [![AZURE - ARCHITECT SERIES - HOW TO CHOOSE INSTANCE SIZE](https://img.youtube.com/vi/KGkYS8H76KU/hqdefault.jpg)](https://youtu.be/KGkYS8H76KU)
 
 ---
+[![YouTube Video](https://img.youtube.com/vi/lzild0lStFM/hqdefault.jpg)](https://youtu.be/lzild0lStFM)
+---
 
 ## The 6 Primary Azure Instance Families
 
