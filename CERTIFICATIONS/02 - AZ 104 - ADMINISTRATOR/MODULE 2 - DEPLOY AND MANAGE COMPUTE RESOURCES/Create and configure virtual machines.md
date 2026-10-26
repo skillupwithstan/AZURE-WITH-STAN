@@ -1,6 +1,8 @@
 ```markdown
 # Create and Configure Azure Virtual Machines
 
+[![YouTube Video](https://img.youtube.com/vi/BRoWL_w9HSw/hqdefault.jpg)](https://youtu.be/BRoWL_w9HSw)
+
 This document covers the fundamental concepts and administrative tasks for deploying, configuring, and managing Virtual Machines (VMs) in Microsoft Azure.
 
 ---
