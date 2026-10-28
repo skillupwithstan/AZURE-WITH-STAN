@@ -9,6 +9,7 @@ Here is a comprehensive markdown writeup on **Azure VM Disks** tailored for your
 
 Azure Virtual Machines use VHDs (Virtual Hard Disks) as their primary disks to store OS, applications, and data. Understanding disk types, caching policies, and performance tiers is critical for designing cost-effective and high-performing cloud architectures.
 
+[![DAY 9 - AZURE IN TAMIL - WEEK 5 DAY 1 - COMPUTE PART 4 - AZURE VM   DISKS](https://img.youtube.com/vi/6cf52pFsnwo/0.jpg)](https://youtu.be/6cf52pFsnwo)
 ---
 
 ## 1. Overview of Azure Disk Types
