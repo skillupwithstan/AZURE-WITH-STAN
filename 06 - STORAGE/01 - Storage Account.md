@@ -1,7 +1,6 @@
 # Azure Storage Account
 
-[](https://youtu.be/HiHEwkFWUSk)
-*(Click the image above to watch the full video tutorial)*
+[![AZURE IN TAMIL - AZ 900 DAY 6 - PART 1 - DESCRIBE CORE SERVICES -STORAGE ACCOUNT](https://img.youtube.com/vi/HiHEwkFWUSk/hqdefault.jpg)](https://youtu.be/HiHEwkFWUSk)
 
 ---
 
