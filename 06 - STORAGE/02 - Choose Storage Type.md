@@ -2,6 +2,10 @@
 
 When provisioning Azure Storage, selecting the correct account type is crucial for balancing performance, feature availability, and cost. Azure offers several storage account types, each optimized for specific workloads.
 
+Here is the clickable thumbnail hyperlink for your video:
+
+[![AZURE IN TAMIL - AZ 900 DAY 6 - PART 3 - DESCRIBE CORE SERVICES - STORAGE SERVICES](https://img.youtube.com/vi/FMYr2uDEIbc/hqdefault.jpg)](https://youtu.be/FMYr2uDEIbc)
+
 ### Available Storage Account Types
 
 | Storage Account Type | Supported Services | Performance Tiers | Best Used For |
