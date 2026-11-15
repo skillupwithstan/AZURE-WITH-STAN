@@ -3,6 +3,8 @@ md_content = """# Azure Blob Storage - Deep Dive
 ## Overview
 Azure Blob Storage is Microsoft's object storage solution for the cloud. Blob stands for **Binary Large Object**. It is designed to store massive amounts of unstructured data, such as text, binary data, images, audio, video, and backups.
 
+[![AZURE AZ 900 in TAMIL - LAB #5 - AZURE STORAGE](https://img.youtube.com/vi/RC7eWgNAKek/hqdefault.jpg)](https://youtu.be/RC7eWgNAKek)
+
 ## Key Concepts and Components
 
 ### 1. Storage Account
