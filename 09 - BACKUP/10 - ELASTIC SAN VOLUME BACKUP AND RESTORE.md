@@ -1,1 +1,1 @@
-Generate a clickable thumbnail image with hyperlink for markdown file content to open this youtube video link: https://youtu.be/6MNChXV5JjA
+[![AZURE IN TAMIL - RESILIENCY SERIES - ELASTIC SAN VOLUMES BACKUP and RESTORE](https://img.youtube.com/vi/6MNChXV5JjA/hqdefault.jpg)](https://youtu.be/6MNChXV5JjA)
