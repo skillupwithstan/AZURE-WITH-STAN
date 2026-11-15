@@ -6,9 +6,10 @@ content = """# Microsoft Azure Storage Account: Static Website Hosting - Compreh
 Here are the clickable video links with their respective thumbnails:
 
 ### 1. HOST A FREE STATIC WEBSITE on AZURE PLATFORM
-10 - Static Web Site Hosting.md](https://github.com/skillupwithstan/AZURE-WITH-STAN/blob/main/06%20-%20STORAGE/10%20-%20Static%20Web%20Site%20Hosting.md#whats-included-in-10---static-web-site-hostingmd)
+[![HOST A FREE STATIC WEBSITE on AZURE PLATFORM](https://img.youtube.com/vi/cLejqFTZAQI/hqdefault.jpg)](https://youtu.be/cLejqFTZAQI)
 
 ### 2. HOST A FREE WEBSITE on AZURE PLATFORM in 10 MINUTES
+[![HOST A FREE WEBSITE on AZURE PLATFORM in 10 MINUTES](https://img.youtube.com/vi/YQlC8iazRkA/hqdefault.jpg)](https://youtu.be/YQlC8iazRkA)
 ---
 
 ## 1. Overview & Architectural Hierarchy
