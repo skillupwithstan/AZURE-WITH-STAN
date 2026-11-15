@@ -1,6 +1,7 @@
 [![AZURE BACKUP - IN ENGLISH - PART 1](https://img.youtube.com/vi/_c8xrUZ7gnU/hqdefault.jpg)](https://youtu.be/_c8xrUZ7gnU)
 
 [![AZURE in ENGLISH - AZ 104 - DATA PROTECTION - AZURE BACKUP and SITE RECOVERY](https://img.youtube.com/vi/N8ou6x0o5Iw/hqdefault.jpg)](https://youtu.be/N8ou6x0o5Iw)
+
 # Azure Data Protection: Backup and Site Recovery - Complete Guide
 
 > **Executive Summary:** Enterprise business continuity relies on two foundational pillars: **Azure Backup** (protecting data against accidental deletion, corruption, and ransomware) and **Azure Site Recovery / ASR** (protecting applications and virtual machines against regional outages and hardware disasters by orchestrating replication and failover).
